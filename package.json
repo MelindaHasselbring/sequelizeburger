@@ -22,12 +22,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MelindaHasselbring/sequelizedBurger.git"
+    "url": "git+https://github.com/MelindaHasselbring/sequelizeBurger.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MelindaHasselbring/sequelizedBurger/issues"
+    "url": "https://github.com/MelindaHasselbring/sequelizeBurger/issues"
   },
-  "homepage": "https://github.com/MelindaHasselbring/sequelizedBurger#readme"
+  "homepage": "https://github.com/MelindaHasselbring/sequelizeBurger#readme"
 }
